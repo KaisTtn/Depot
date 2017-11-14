@@ -46,4 +46,4 @@ class Movie
 
 $movie = new Movie("Mon film","C'est bien",123);
 
-echo $movie->getName().'<br>'.$movie->getDescription().'<br>'.$movie->getDuration();
+echo $movie->getName().'<br>'.$movie->getDescription().'<br>'.$movie->getDuration();//ez
